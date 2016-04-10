@@ -1,6 +1,16 @@
+#wrapper h1 {
+    font-weight: 900;
+}
 #wrapper {
 	width: 100%;
 	margin: 100px auto;
+}
+.logo-holder {
+	max-width: 350px;
+	margin: 0 auto;
+}
+.logo-holder img {
+	width: 100%;
 }
 .list-inline > li {
     display: inline-block;
