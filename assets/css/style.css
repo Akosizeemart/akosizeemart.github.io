@@ -1,6 +1,6 @@
 #wrapper {
 	width: 100%;
-	margin: 0;
+	margin: 100px auto;
 }
 .list-inline > li {
     display: inline-block;
